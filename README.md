@@ -1,7 +1,6 @@
 # Capstone-project
 
-This project introduces a strategic, non-disruptive approach to airspace protection that blends AI with
-cybersecurity techniques in drone navigation systems.
+This project tackles the security challenge of unauthorized drone incursions into restricted airspace by developing a system that detects and tracks intruders using multi-sensor data. By employing GPS spoofing, the system subtly diverts drones away from no-fly zones and back onto their intended paths. A simulation-based approach ensures a non-disruptive, scalable solution for safeguarding sensitive areas.
 
 Simulation setup-
 1) Install Ubuntu 20.04.5 LTS
