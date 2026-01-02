@@ -11,6 +11,7 @@ Simulation setup-
 5) Move the world file to the worlds folder in sky_ws directory and make a launch file for the same
 
 Steps to execute - 
+
 Terminal 1-
 1)sim_vehicle.py -v ArduCopter -f gazebo-iris --console --map
 2)mode guided
