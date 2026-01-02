@@ -47,4 +47,4 @@ Terminal 6-
 
 Terminal 7-
 
-1) rostopic echo mavros/local_position/odom
+1)rostopic echo mavros/local_position/odom
